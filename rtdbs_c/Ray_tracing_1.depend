@@ -1,0 +1,211 @@
+# depslib dependency file v1.0
+1703262250 source:e:\science\raytracing\ray_tracing_1\nr_function.cpp
+	"nr.h"
+
+1700064104 e:\science\raytracing\ray_tracing_1\nr.h
+	<fstream>
+	<complex>
+	"nrutil.h"
+	"nrtypes.h"
+
+1700064104 e:\science\raytracing\ray_tracing_1\nrutil.h
+	"nrutil_nr.h"
+
+1700064104 e:\science\raytracing\ray_tracing_1\nrutil_nr.h
+	<string>
+	<cmath>
+	<complex>
+	<iostream>
+
+1700064104 e:\science\raytracing\ray_tracing_1\nrtypes.h
+	"nrtypes_nr.h"
+
+1700064104 e:\science\raytracing\ray_tracing_1\nrtypes_nr.h
+	<complex>
+	<fstream>
+	"nrutil.h"
+
+1703266450 source:e:\science\raytracing\ray_tracing_1\raytracing.cpp
+	<windows.h>
+	"RayTracing.h"
+	<iostream>
+	<iomanip>
+	<complex>
+	"nr.h"
+	<limits>
+	<ctime>
+	"spline.h"
+
+1700064104 e:\science\raytracing\ray_tracing_1\raytracing.h
+	"nr.h"
+
+1703259526 source:e:\science\raytracing\ray_tracing_1\lauch_fun_ray_tracing2.cpp
+	<iostream>
+	"RayTracing.h"
+
+1703259030 e:\science\raytracing\ray_tracing_1\spline.h
+	<cstdio>
+	<cassert>
+	<cmath>
+	<vector>
+	<algorithm>
+	<sstream>
+	<string>
+
+1703259526 source:f:\science\raytracing\ray_tracing_1\lauch_fun_ray_tracing2.cpp
+	<iostream>
+	"RayTracing.h"
+
+1700064104 f:\science\raytracing\ray_tracing_1\raytracing.h
+	"nr.h"
+
+1700064104 f:\science\raytracing\ray_tracing_1\nr.h
+	<fstream>
+	<complex>
+	"nrutil.h"
+	"nrtypes.h"
+
+1700064104 f:\science\raytracing\ray_tracing_1\nrutil.h
+	"nrutil_nr.h"
+
+1700064104 f:\science\raytracing\ray_tracing_1\nrutil_nr.h
+	<string>
+	<cmath>
+	<complex>
+	<iostream>
+
+1700064104 f:\science\raytracing\ray_tracing_1\nrtypes.h
+	"nrtypes_nr.h"
+
+1700064104 f:\science\raytracing\ray_tracing_1\nrtypes_nr.h
+	<complex>
+	<fstream>
+	"nrutil.h"
+
+1703262250 source:f:\science\raytracing\ray_tracing_1\nr_function.cpp
+	"nr.h"
+
+1707761058 source:f:\science\raytracing\ray_tracing_1\raytracing.cpp
+	<windows.h>
+	"RayTracing.h"
+	<iostream>
+	<iomanip>
+	<complex>
+	"nr.h"
+	<limits>
+	<ctime>
+	"spline.h"
+
+1703259030 f:\science\raytracing\ray_tracing_1\spline.h
+	<cstdio>
+	<cassert>
+	<cmath>
+	<vector>
+	<algorithm>
+	<sstream>
+	<string>
+
+1708001161 source:e:\2024_january\ray_tracing_dbs\ray_tracing_dbs_c\lauch_fun_ray_tracing2.cpp
+	<iostream>
+	"RayTracing.h"
+
+1708001161 e:\2024_january\ray_tracing_dbs\ray_tracing_dbs_c\raytracing.h
+	"nr.h"
+
+1708001161 e:\2024_january\ray_tracing_dbs\ray_tracing_dbs_c\nr.h
+	<fstream>
+	<complex>
+	"nrutil.h"
+	"nrtypes.h"
+
+1708001161 e:\2024_january\ray_tracing_dbs\ray_tracing_dbs_c\nrutil.h
+	"nrutil_nr.h"
+
+1708001161 e:\2024_january\ray_tracing_dbs\ray_tracing_dbs_c\nrutil_nr.h
+	<string>
+	<cmath>
+	<complex>
+	<iostream>
+
+1708001161 e:\2024_january\ray_tracing_dbs\ray_tracing_dbs_c\nrtypes.h
+	"nrtypes_nr.h"
+
+1708001161 e:\2024_january\ray_tracing_dbs\ray_tracing_dbs_c\nrtypes_nr.h
+	<complex>
+	<fstream>
+	"nrutil.h"
+
+1708001161 source:e:\2024_january\ray_tracing_dbs\ray_tracing_dbs_c\raytracing.cpp
+	<windows.h>
+	"RayTracing.h"
+	<iostream>
+	<iomanip>
+	<complex>
+	"nr.h"
+	<limits>
+	<ctime>
+	"spline.h"
+
+1708001161 e:\2024_january\ray_tracing_dbs\ray_tracing_dbs_c\spline.h
+	<cstdio>
+	<cassert>
+	<cmath>
+	<vector>
+	<algorithm>
+	<sstream>
+	<string>
+
+1708001161 source:e:\2024_january\ray_tracing_dbs\rtdbs\rtdbs_c\lauch_fun_ray_tracing2.cpp
+	<iostream>
+	"RayTracing.h"
+
+1708001161 e:\2024_january\ray_tracing_dbs\rtdbs\rtdbs_c\raytracing.h
+	"nr.h"
+
+1708001161 e:\2024_january\ray_tracing_dbs\rtdbs\rtdbs_c\nr.h
+	<fstream>
+	<complex>
+	"nrutil.h"
+	"nrtypes.h"
+
+1708001161 e:\2024_january\ray_tracing_dbs\rtdbs\rtdbs_c\nrutil.h
+	"nrutil_nr.h"
+
+1708001161 e:\2024_january\ray_tracing_dbs\rtdbs\rtdbs_c\nrutil_nr.h
+	<string>
+	<cmath>
+	<complex>
+	<iostream>
+
+1708001161 e:\2024_january\ray_tracing_dbs\rtdbs\rtdbs_c\nrtypes.h
+	"nrtypes_nr.h"
+
+1708001161 e:\2024_january\ray_tracing_dbs\rtdbs\rtdbs_c\nrtypes_nr.h
+	<complex>
+	<fstream>
+	"nrutil.h"
+
+1708006621 source:e:\2024_january\ray_tracing_dbs\rtdbs\rtdbs_c\nr_function.cpp
+	"nr.h"
+	<limits>
+
+1708001161 source:e:\2024_january\ray_tracing_dbs\rtdbs\rtdbs_c\raytracing.cpp
+	<windows.h>
+	"RayTracing.h"
+	<iostream>
+	<iomanip>
+	<complex>
+	"nr.h"
+	<limits>
+	<ctime>
+	"spline.h"
+
+1708001161 e:\2024_january\ray_tracing_dbs\rtdbs\rtdbs_c\spline.h
+	<cstdio>
+	<cassert>
+	<cmath>
+	<vector>
+	<algorithm>
+	<sstream>
+	<string>
+
