@@ -1,5 +1,5 @@
 import numpy as np
-import time
+import subprocess
 import os
 from shutil import copyfile
 
@@ -119,8 +119,14 @@ def rt_main(
     #START!!!
     ##############################################################################
     dir = os.path.abspath(os.curdir)
-    os.chdir(dir+exe_path)
-    os.startfile('Ray_tracing_1.exe')
+    os.chdir(dir+exe_path)    
+
+    print(' ')    
+    print('START RT!')
+    print(subprocess.check_output(['Ray_tracing_1.exe']).decode())
+    print('END RT!')
+    print(' ')
+    
     os.chdir(dir)
     ##############################################################################
     
@@ -128,7 +134,7 @@ def rt_main(
     #############################################################################
     
     #wait 10 sec before file copy and deleting
-    time.sleep(30)
+    # time.sleep(30)
     
     filename_list=[
         'input_test.dat',

@@ -20,7 +20,7 @@ output_path='.//output_data'
 #input data for wave
 ###############################################################################
 
-alpha=1.35 # for a0=a0*alpha - extend magnetic surfaces at limiter
+alpha=1.217 # for a0=a0*alpha - extend magnetic surfaces at limiter
 
 r_start_vect=[1.1,0.0,0.0] #wave start point
 
@@ -32,8 +32,8 @@ n_start_vect=[
 
 R_start=0.62 #start wave from Z=0 at limiter
 
-frequency_list=[55] #GHz
-# frequency_list=[20,29,50,55,60,65,70,75] #GHz
+# frequency_list=[60] #GHz
+frequency_list=[20,29,50,55,60,65,70,75] #GHz
 
 moda=0
 InversT=0
@@ -45,7 +45,7 @@ shot_number=40458
 filename_ts_ne=TS_path+'//'+str(shot_number)+'//'+str(shot_number)+'_n(R)_old.csv'
 data_dens=TS_read(filename_ts_ne)
 
-num_ts_list=[24]
+num_ts_list=[23]
 
 for num_ts in num_ts_list:
     for frequency in frequency_list:
